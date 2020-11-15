@@ -8,14 +8,14 @@ yarn global add storybook
 yarn install
 ```
 
+### Browse UI components with Storybook!
+```
+yarn run storybook
+```
+
 ### Compiles and hot-reloads for development
 ```
 yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
 ```
 
 ### Run your unit tests
